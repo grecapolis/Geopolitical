@@ -1,0 +1,13 @@
+Token
+Orso (test) - MTAzNDg4MDgyMjA1NjA3NTI5NA.G2ZS5c.SwWHgcsZ5m1fFEtT1G-dx6yIZeRFpPMXxLMjd8
+
+Grecapolis  - MTAzNDg2MjIzMDg3OTA4NDY2NQ.Gch9U5.gBLYkHlK42mS1CrH_gnA5ZB6nhwa6BCZxBMqIw
+
+
+Invitation :
+
+Geopolitical-Orso : https://discord.com/api/oauth2/authorize?client_id=1034880822056075294&permissions=8&scope=bot
+
+
+videos :
+https://www.youtube.com/watch?v=dSJLkiBWNvI&list=PL6qzptmaP-gi-Y1PVGUF4WX9QulQmJoc7
